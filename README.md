@@ -1,4 +1,4 @@
-# Compare_GRUandLSTM
+# Compare_GRUandLSTM on TEDLIUM
 
 LSTM Script: KALDI.V2/04f_train_lstm.sh (3 layered, bi-directional)
 
